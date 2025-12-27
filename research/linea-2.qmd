@@ -32,11 +32,6 @@ categories: [machine learning]
 
 ## Publicaciones relacionadas
 
-*En preparación*
-
-**Presentación**: "Detecting seasonal patterns in complex data"\
-*Estado*: Aceptada para Congreso Internacional de Estadística 2025
-
 ## Repositorio de código
 
 ::: callout-warning
