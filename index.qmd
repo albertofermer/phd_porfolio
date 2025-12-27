@@ -1,6 +1,6 @@
 ---
 # Metadatos de la página principal
-title: "Bienvenido a mi Espacio de Investigación"
+title: "Bienvenido"
 # No incluir tabla de contenidos en la página principal
 toc: false
 ---
@@ -18,7 +18,7 @@ Este portfolio tiene dos propósitos principales:
 
 ## ¿Qué encontrarás aquí?
 
-### 📊 Investigación
+### 1. Investigación
 
 Explicaciones claras sobre mis líneas de trabajo. Cada proyecto está documentado con:
 
@@ -29,7 +29,7 @@ Explicaciones claras sobre mis líneas de trabajo. Cada proyecto está documenta
 
 [Explorar investigación →](research/index.qmd)
 
-### 📝 Diario de Investigación
+### 2. Diario de Investigación
 
 Un registro más informal y periódico donde comparto:
 
@@ -40,7 +40,7 @@ Un registro más informal y periódico donde comparto:
 
 [Ver últimas entradas →](log/index.qmd)
 
-### 👤 Sobre mí
+### 3. Sobre mí
 
 Información sobre mi formación académica, intereses de investigación y cómo contactarme.
 
