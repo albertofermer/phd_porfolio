@@ -64,11 +64,12 @@ format:
     toc-depth: 3
     toc-location: right
     code-fold: false  # Mostrar código por defecto
-    code-tools: true  # Herramientas para copiar código
+    code-tools: false  # Desactiva botón de código fuente
     code-link: true  # Enlaces a documentación de funciones
     number-sections: false  # Sin numeración automática de secciones
     smooth-scroll: true
     link-external-newwindow: true  # Enlaces externos en nueva ventana
+    anchor-sections: false  # Oculta los iconos de enlace al lado de títulos
     
 # Opciones para notebooks Jupyter
 execute:
