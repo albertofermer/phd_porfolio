@@ -26,8 +26,7 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
-          # Versión de Quarto (usa 'latest' para la más reciente)
-          version: latest
+          version: 1.4.550
 
       - name: Set up Python
         uses: actions/setup-python@v5
