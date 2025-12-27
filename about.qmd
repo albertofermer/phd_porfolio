@@ -27,22 +27,22 @@ Ingeniero Informático especializado en **Computación e Inteligencia Artificial
 :::
 
 ::: {.callout-note icon="false"}
-## 🎯 Objetivo Profesional
+## Objetivo Profesional
 
-Actualmente enfocado en roles relacionados con la Inteligencia Artificial, aportando una base técnica sólida y una mentalidad orientada a la resolución de problemas complejos.
+Actualmente estoy enfocado en roles relacionados con la Inteligencia Artificial, aportando una base técnica sólida y una mentalidad orientada a la resolución de problemas complejos.
 :::
 
-## 💻 Habilidades Técnicas
+## 1. Habilidades Técnicas
 
 ::: {layout-ncol="2"}
-### 🔍 Análisis e IA
+### 1.1 Análisis e IA
 
 -   **ML:** Supervisado, no supervisado, selección de variables.
 -   **Deep Learning:** TensorFlow, PyTorch.
 -   **Estadística:** Análisis descriptivo e inferencial.
 -   **Data Ops:** Limpieza (EDA), transformación y automatización.
 
-### 🛠️ Herramientas y Dev
+### 1.2 Herramientas y Dev
 
 -   **Lenguajes:** Python (Experto), SQL, MATLAB, C/C++, Bash.
 -   **Cloud:** Microsoft Azure (AZ-900 Certified).
@@ -51,7 +51,7 @@ Actualmente enfocado en roles relacionados con la Inteligencia Artificial, aport
 
 ------------------------------------------------------------------------
 
-## 🎓 Formación Académica
+## 2. Formación Académica
 
 **Máster en Inteligencia Computacional e IoT** *Universidad de Córdoba* \| 2024 – 2025\
 \* **Nota Media:** 8,84\
@@ -63,7 +63,7 @@ Actualmente enfocado en roles relacionados con la Inteligencia Artificial, aport
 
 ------------------------------------------------------------------------
 
-## 💼 Experiencia Profesional
+## 3. Experiencia Profesional
 
 ### Profesor Sustituto de Ingeniería Informática
 
@@ -82,7 +82,7 @@ Actualmente enfocado en roles relacionados con la Inteligencia Artificial, aport
 
 ------------------------------------------------------------------------
 
-## 📜 Certificaciones e Idiomas
+## 4. Certificaciones e Idiomas
 
 -   **Cloud:** Microsoft Certified: Azure Fundamentals (AZ-900)
 -   **Networking:** Cisco CCNA 1 & 2
