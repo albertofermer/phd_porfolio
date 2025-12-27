@@ -34,15 +34,14 @@ Estoy comenzando a aprender a utilizar Quarto. Próximamente publicaré este por
 ### Nuevas herramientas
 
 -   [x] Framework Quarto.
-
 -   [x] CSS
 
 ## Próximos pasos (2026)
 
 ### Semana 1-2: Publicación en Github Pages
 
--   [ ] Revisar cómo publicar el portfolio en Github Pages para poder compartirlo.
--   [ ] Comprobar si puede hacerse parcialmente público.
+-   [x] Revisar cómo publicar el portfolio en Github Pages para poder compartirlo.
+-   [x] Comprobar si puede hacerse parcialmente público.
 
 ## Reflexiones personales
 

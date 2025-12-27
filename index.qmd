@@ -5,7 +5,7 @@ title: "Bienvenido a mi Espacio de Investigación"
 toc: false
 ---
 
-Este es un espacio donde comparto mi viaje a través del [doctorado](https://www.uco.es/estudios/idep/menu-doctorado/programas-doctorado/2-uncategorised/203-computacion-avanzada-energia-y-plasma) en la Universidad de Córdoba. Mi investigación se centra en ... .
+Este es un espacio donde comparto mi viaje a través del [doctorado](https://www.uco.es/estudios/idep/menu-doctorado/programas-doctorado/2-uncategorised/203-computacion-avanzada-energia-y-plasma) en la Universidad de Córdoba. Mi línea principal de investigación se centra en la [Alfabetización en Inteligencia Artificial](research/linea-2.qmd).
 
 ::: callout-note
 ## Objetivo de este sitio

@@ -16,6 +16,6 @@ toc: false
 
 Este espacio reúne las diferentes áreas de investigación en las que trabajo actualmente. Cada línea representa un conjunto de proyectos, experimentos y publicaciones relacionadas con un tema específico.
 
----
+------------------------------------------------------------------------
 
 ## Todas las líneas de investigación
