@@ -1,0 +1,93 @@
+---
+title: "Alberto Fernández Merchán"
+subtitle: "Ingeniero Informático"
+image: "FotoTCarnetAlberto.png"
+about:
+  template: trestles
+  image-width: 10em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/alberto-fernandez-merchan
+    - icon: github
+      text: GitHub
+      href: https://github.com/albertofermer
+    - icon: envelope
+      text: Email
+      href: mailto:alberto.fernmer@gmail.com
+    - icon: mortarboard-fill
+      text: ORCID
+      href: https://orcid.org/0009-0001-9248-1782
+---
+
+## Sobre mí
+
+::: {style="text-align: justify;"}
+Ingeniero Informático especializado en **Computación e Inteligencia Artificial**. Mi trayectoria combina la rigurosidad académica (docencia universitaria) con la experiencia práctica en entornos corporativos de alto nivel (Fujitsu/Banco Santander). Me apasiona transformar datos complejos en soluciones accionables mediante Machine Learning y análisis estadístico.
+:::
+
+::: {.callout-note icon="false"}
+## 🎯 Objetivo Profesional
+
+Actualmente enfocado en roles de **Data Scientist / Data Analyst**, aportando una base técnica sólida en desarrollo de software y una mentalidad orientada a la resolución de problemas complejos.
+:::
+
+## 💻 Habilidades Técnicas
+
+::: {layout-ncol="2"}
+### 🔍 Análisis e IA
+
+-   **ML:** Supervisado, no supervisado, selección de variables.
+-   **Deep Learning:** TensorFlow, PyTorch.
+-   **Estadística:** Análisis descriptivo e inferencial.
+-   **Data Ops:** Limpieza (EDA), transformación y automatización.
+
+### 🛠️ Herramientas y Dev
+
+-   **Lenguajes:** Python (Experto), SQL, MATLAB, C/C++, Bash.
+-   **Cloud:** Microsoft Azure (AZ-900 Certified).
+-   **Entorno:** Git, Linux, JIRA, Metodologías Ágiles.
+:::
+
+------------------------------------------------------------------------
+
+## 🎓 Formación Académica
+
+**Máster en Inteligencia Computacional e IoT** *Universidad de Córdoba* \| 2024 – 2025\
+\* **Nota Media:** 8,84\
+\* **TFM:** Análisis Exploratorio del Desarrollo Infantil mediante Machine Learning.
+
+**Grado en Ingeniería Informática (Computación)** *Universidad de Huelva* \| 2019 – 2023\
+\* **Nota Media:** 7,95\
+\* **TFG:** Detección de moléculas en formaciones estelares mediante IA (**Matrícula de Honor**).
+
+------------------------------------------------------------------------
+
+## 💼 Experiencia Profesional
+
+### Profesor Sustituto de Ingeniería Informática
+
+**Universidad de Córdoba** \| 2025 – Actualidad
+
+-   Docencia en asignaturas críticas: *Sistemas Operativos, Ingeniería Web y Métodos Formales*.
+-   Mentoría técnica a estudiantes en estructuras de datos y lógica de programación.
+-   Capacidad demostrada para comunicar conceptos técnicos complejos de forma clara.
+
+### Consultor de Ciberseguridad (Data-Driven)
+
+**Fujitsu \| Cliente: Banco Santander** \| 2023 – 2024
+
+-   **Análisis de Datos:** Procesamiento de grandes volúmenes de logs para detección de anomalías.
+-   **Automatización:** Creación de scripts en Python/Bash que redujeron tiempos de análisis manual.
+-   **Colaboración:** Trabajo en equipos multidisciplinares bajo estándares de seguridad bancaria.
+
+------------------------------------------------------------------------
+
+## 📜 Certificaciones e Idiomas
+
+-   **Cloud:** Microsoft Certified: A es un sistema de publicación de código abierto para crear documentos científicos y técnicos dinámicoszure Fundamentals (AZ-900)
+-   **Networking:** Cisco CCNA 1 & 2
+-   **Idiomas:**
+    -   Inglés (C1 - Avanzado)
+    -   Francés (B1 - Intermedio)
+    -   Español (Nativo)

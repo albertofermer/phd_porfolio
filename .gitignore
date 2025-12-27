@@ -1,0 +1,62 @@
+# Archivos generados por Quarto
+/_site/
+/.quarto/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+.ipynb_checkpoints/
+.pytest_cache/
+
+# R (si usas R en el futuro)
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Datos y resultados (no versionar datasets grandes)
+data/raw/
+data/processed/
+results/
+*.csv
+*.xlsx
+*.h5
+*.hdf5
+
+# Excepciones: datos de ejemplo pequeños sí pueden incluirse
+!data/examples/*.csv
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+*.cache
+
+# Credenciales y configuración local
+.env
+.secrets
+config_local.yml
+
+**/*.quarto_ipynb

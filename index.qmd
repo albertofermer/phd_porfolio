@@ -1,0 +1,64 @@
+---
+# Metadatos de la página principal
+title: "Bienvenido a mi Espacio de Investigación"
+# No incluir tabla de contenidos en la página principal
+toc: false
+---
+
+Este es un espacio donde comparto mi viaje a través del [doctorado](https://www.uco.es/estudios/idep/menu-doctorado/programas-doctorado/2-uncategorised/203-computacion-avanzada-energia-y-plasma) en la Universidad de Córdoba. Mi investigación se centra en ... .
+
+::: callout-note
+## Objetivo de este sitio
+
+Este portfolio tiene dos propósitos principales:
+
+1.  **Divulgar** mi investigación de forma accesible
+2.  **Documentar** el proceso de aprendizaje y descubrimiento durante el doctorado
+:::
+
+## ¿Qué encontrarás aquí?
+
+### 📊 Investigación
+
+Explicaciones claras sobre mis líneas de trabajo. Cada proyecto está documentado con:
+
+-   El problema que intenta resolver
+-   Por qué es importante
+-   Resultados preliminares y visualizaciones
+-   Enlaces a publicaciones (cuando estén disponibles)
+
+[Explorar investigación →](research/index.qmd)
+
+### 📝 Diario de Investigación
+
+Un registro más informal y periódico donde comparto:
+
+-   Avances semanales o mensuales
+-   Aprendizajes técnicos
+-   Reflexiones sobre el proceso doctoral
+-   Herramientas y recursos útiles
+
+[Ver últimas entradas →](log/index.qmd)
+
+### 👤 Sobre mí
+
+Información sobre mi formación académica, intereses de investigación y cómo contactarme.
+
+[Conocer más →](about.qmd)
+
+------------------------------------------------------------------------
+
+```{=html}
+<!-- ## Últimas actualizaciones
+
+::: {.research-card style="deafult"}
+### Enero 2025: Nuevos hallazgos en series temporales
+
+He estado explorando técnicas de descomposición avanzada para series temporales con estacionalidades complejas. Los resultados preliminares son prometedores...
+
+[Leer entrada completa →](log/2025-01-avances.qmd)
+:::
+
+------------------------------------------------------------------------
+ -->
+```

@@ -1,0 +1,82 @@
+# Configuración principal del sitio Quarto
+# Este archivo define el comportamiento global del sitio web académico
+
+project:
+  type: website
+  output-dir: _site  # Carpeta donde se generará el sitio estático
+
+# Configuración del sitio web
+website:
+  # Título principal que aparecerá en la barra de navegación
+  title: "Doctorado en Computación Avanzada, Energía y Plasmas"
+  # Descripción para SEO y metadatos
+  description: "Espacio divulgativo sobre mi investigación doctoral"
+  
+  # URL del favicon (opcional, puedes agregar tu propio icono)
+  # favicon: images/favicon.png
+  
+  # Repositorio de GitHub para el botón "Edit this page" (opcional)
+  repo-url: https://github.com/tu-usuario/phd-portfolio
+  repo-actions: [edit, issue]
+  
+  # Navegación principal del sitio
+  navbar:
+    background: primary
+    search: true  # Habilita búsqueda en el sitio
+    toggle-mode: true  # Switch simple para cambiar entre modo claro y oscuro
+    left:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Sobre mí"
+        href: about.qmd
+      - text: "Investigación"
+        href: research/index.qmd
+      - text: "Diario de Investigación"
+        href: log/index.qmd
+  
+  # Pie de página
+  page-footer:
+    left: |
+      © 2025 - Contenido bajo licencia CC BY 4.0 <p></p>
+      Alberto Fernández Merchán
+    right: |
+      Construido con [Quarto](https://quarto.org/)
+  
+  # Navegación lateral (sidebar) para el diario
+  sidebar:
+    - id: log-sidebar
+      title: "Entradas del Diario"
+      style: "floating"
+      collapse-level: 2
+      contents:
+        - log/index.qmd
+        - section: "Entradas"
+          contents: "log/*.qmd"
+
+# Formato de salida
+format:
+  html:
+    theme: 
+      light: [cosmo, custom.scss]  # Tema claro con personalización
+      dark: [darkly, custom.scss]  # Tema oscuro con personalización
+    css: styles.css
+    toc: true  # Tabla de contenidos automática
+    toc-depth: 3
+    toc-location: right
+    code-fold: false  # Mostrar código por defecto
+    code-tools: true  # Herramientas para copiar código
+    code-link: true  # Enlaces a documentación de funciones
+    number-sections: false  # Sin numeración automática de secciones
+    smooth-scroll: true
+    link-external-newwindow: true  # Enlaces externos en nueva ventana
+    
+# Opciones para notebooks Jupyter
+execute:
+  freeze: auto  # Solo re-ejecuta notebooks cuando cambian
+  cache: true   # Cachea resultados para acelerar builds
+
+# Idioma del sitio
+lang: es
+
+# Editor visual de Quarto
+editor: visual

@@ -1,0 +1,63 @@
+---
+title: "Línea 1: Trastornos del Neurodesarrollo en Atención Temprana"
+subtitle: "Análisis Exploratorio de los datos del CAIT"
+# Fecha de última actualización
+date: "2025-12-27"
+date-modified: last-modified
+# Categorías para organizar el contenido
+categories: [clustering, machine learning]
+# Imagen destacada (opcional)
+# image: images/research-line-1.png
+---
+
+## Resumen del proyecto
+
+
+
+## ¿Por qué es importante?
+
+
+## Enfoque metodológico
+
+### 1. Descomposición adaptativa
+
+
+### 2. Validación
+
+
+## Resultados preliminares
+
+
+## Próximos pasos
+
+### Corto plazo (Q1 2025)
+
+
+
+### Medio plazo (Q2-Q3 2025)
+
+
+### Largo plazo (2026)
+
+
+## Publicaciones relacionadas
+
+*En preparación*
+
+**Presentación**: "Detecting seasonal patterns in complex data"\
+*Estado*: Aceptada para Congreso Internacional de Estadística 2025
+
+## Repositorio de código
+
+::: callout-warning
+## Código en desarrollo
+
+El código está en fase de desarrollo activo. Se publicará completo al aceptarse el primer artículo, en línea con las políticas de publicación académica.
+
+:::
+
+## Referencias
+
+------------------------------------------------------------------------
+
+*Para más detalles técnicos o colaboraciones, [contactar](../about.qmd#contacto)*

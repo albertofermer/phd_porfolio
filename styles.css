@@ -1,0 +1,58 @@
+/* Estilos personalizados para el sitio académico */
+
+/* Ajustes generales de tipografía */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.7;
+}
+
+/* Estilo para las cajas de destacados */
+.callout {
+  margin: 1.5em 0;
+}
+
+/* Mejora visual para bloques de código */
+pre {
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Espaciado para imágenes */
+img {
+  max-width: 100%;
+  height: auto;
+  margin: 1em 0;
+  border-radius: 4px;
+}
+
+/* Estilo para citas académicas */
+blockquote {
+  border-left: 4px solid #0d6efd;
+  padding-left: 1em;
+  margin-left: 0;
+  font-style: italic;
+}
+
+/* Card personalizado para investigación */
+.research-card {
+  border-radius: 8px;
+  padding: 1.5em;
+  margin: 1em 0;
+}
+
+.research-card h3 {
+  margin-top: 0;
+}
+
+/* Ajustar diseño del about para que el contenido esté más a la izquierda */
+.about-entity {
+  max-width: 100% !important;
+}
+
+.about-entity .about-contents {
+  padding-left: 2em;
+}
+
+#title-block-header.quarto-title-block.default .quarto-title-meta {
+  grid-column-start: 1;
+}

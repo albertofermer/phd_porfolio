@@ -1,0 +1,39 @@
+---
+title: "Diario de Investigación"
+# Listar entradas del diario
+listing:
+  contents: "*.qmd"  # Todos los archivos .qmd en esta carpeta
+  sort: "date desc"  # Ordenar por fecha, más recientes primero
+  type: default
+  categories: true
+  fields: [date, title, description, categories]
+  filter-ui: true  # Permitir filtrar por categorías
+  sort-ui: true    # Permitir reordenar
+page-layout: full
+toc: false
+---
+
+## Bienvenido al diario de investigación
+
+Este es un espacio más informal donde documento el proceso de investigación: avances, aprendizajes, obstáculos y reflexiones. A diferencia de las publicaciones académicas formales, aquí comparto el "detrás de cámaras" del doctorado.
+
+### ¿Qué tipo de contenido encontrarás?
+
+-   **Avances técnicos**: Explicaciones de nuevos métodos probados, resultados de experimentos, código útil
+-   **Aprendizajes**: Herramientas, librerías, o técnicas descubiertas durante la investigación
+-   **Reflexiones**: Sobre el proceso doctoral, metodología de investigación, gestión del tiempo
+-   **Recursos**: Artículos interesantes, datasets útiles, tutoriales recomendados
+
+### Estructura de las entradas
+
+Cada entrada suele tener:
+
+1.  Contexto del periodo (qué estaba trabajando)
+2.  Principales avances o hallazgos
+3.  Dificultades encontradas
+4.  Próximos pasos
+5.  Referencias o recursos útiles
+
+------------------------------------------------------------------------
+
+## Todas las entradas

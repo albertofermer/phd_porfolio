@@ -1,0 +1,21 @@
+---
+title: "Líneas de Investigación"
+listing:
+  contents: "*.qmd"
+  sort: "date desc"
+  type: default
+  categories: true
+  fields: [date, title, subtitle, categories]
+  filter-ui: true
+  sort-ui: true
+page-layout: full
+toc: false
+---
+
+## Mis líneas de investigación
+
+Este espacio reúne las diferentes áreas de investigación en las que trabajo actualmente. Cada línea representa un conjunto de proyectos, experimentos y publicaciones relacionadas con un tema específico.
+
+---
+
+## Todas las líneas de investigación

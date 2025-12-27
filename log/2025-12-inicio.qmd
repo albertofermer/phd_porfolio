@@ -1,0 +1,57 @@
+---
+title: "Diciembre 2025: Creación del Porfolio de Doctorando"
+description: "Creación del esqueleto del porfolio web"
+date: "2025-12-27"
+categories: [Quarto, PhD, Porfolio]
+# Habilitar ejecución de código en esta entrada
+execute:
+  echo: true
+  warning: false
+---
+
+## Contexto
+
+Hoy, 27 de diciembre de 2025, comienzo con la creación de un porfolio para documentar y realizar un seguimiento de mi periodo de doctorando en la Universidad de Córdoba.
+
+Para la realización de este blog voy a usar Quarto, un sistema de código abierto para crear documentos científicos y técnicos de forma dinámica.
+
+## Principales avances
+
+### Primer contacto
+
+Es mi primera vez haciendo algo como un portfolio, por lo que he recurrido al conocido Copilot de Visual Studio Code y a otros grandes modelos del lenguaje (LLM) para poder montar el esqueleto. Tampoco he realizado nunca ninguna web ni trabajado con CSS, que es lo que se utiliza en este framework, así que la ayuda de estos LLM es fundamental para mí.
+
+Como es un seguimiento de mi propio trabajo y de mi doctorando, me gustaría escribir todo el texto yo solo sin utilizar la ayuda de estas herramientas. De esta manera sentiré que este proyecto es realmente mío.
+
+## Dificultades encontradas
+
+De momento, al estar utilizando la herramienta de Copilot para que me ayude a estructurar las páginas, no he encontrado ninguna dificultad.
+
+## Aprendizajes técnicos
+
+Estoy comenzando a aprender a utilizar Quarto. Próximamente publicaré este portfolio o cuaderno de bitácora en Github Pages para que mis directores y cualquier otra persona pueda revisar mi trabajo.
+
+### Nuevas herramientas
+
+-   [x] Framework Quarto.
+
+-   [x] CSS
+
+## Próximos pasos (2026)
+
+### Semana 1-2: Publicación en Github Pages
+
+-   [ ] Revisar cómo publicar el portfolio en Github Pages para poder compartirlo.
+-   [ ] Comprobar si puede hacerse parcialmente público.
+
+## Reflexiones personales
+
+Creo que puede ser una buena idea documentar todo el proceso de mi doctorando para ver el progreso y los logros que puedo hacer en estos próximos 3 años.
+
+## Recursos útiles
+
+-   Quarto integrado con VSCode: <https://quarto.org/docs/get-started/hello/vscode.html>
+
+------------------------------------------------------------------------
+
+*¿Preguntas o comentarios sobre esta entrada? [Contáctame](../about.qmd#contacto)*
