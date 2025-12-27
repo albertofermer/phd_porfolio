@@ -47,18 +47,3 @@ Información sobre mi formación académica, intereses de investigación y cómo
 [Conocer más →](about.qmd)
 
 ------------------------------------------------------------------------
-
-```{=html}
-<!-- ## Últimas actualizaciones
-
-::: {.research-card style="deafult"}
-### Enero 2025: Nuevos hallazgos en series temporales
-
-He estado explorando técnicas de descomposición avanzada para series temporales con estacionalidades complejas. Los resultados preliminares son prometedores...
-
-[Leer entrada completa →](log/2025-01-avances.qmd)
-:::
-
-------------------------------------------------------------------------
- -->
-```

@@ -23,13 +23,13 @@ about:
 ## Sobre mí
 
 ::: {style="text-align: justify;"}
-Ingeniero Informático especializado en **Computación e Inteligencia Artificial**. Mi trayectoria combina la rigurosidad académica (docencia universitaria) con la experiencia práctica en entornos corporativos de alto nivel (Fujitsu/Banco Santander). Me apasiona transformar datos complejos en soluciones accionables mediante Machine Learning y análisis estadístico.
+Ingeniero Informático especializado en **Computación e Inteligencia Artificial**. Mi trayectoria combina la rigurosidad académica (docencia universitaria) con la experiencia práctica en entornos corporativos de alto nivel (Fujitsu/Banco Santander). Me gusta el análisis de problemas y darles solución.
 :::
 
 ::: {.callout-note icon="false"}
 ## 🎯 Objetivo Profesional
 
-Actualmente enfocado en roles de **Data Scientist / Data Analyst**, aportando una base técnica sólida en desarrollo de software y una mentalidad orientada a la resolución de problemas complejos.
+Actualmente enfocado en roles relacionados con la Inteligencia Artificial, aportando una base técnica sólida y una mentalidad orientada a la resolución de problemas complejos.
 :::
 
 ## 💻 Habilidades Técnicas
@@ -69,9 +69,8 @@ Actualmente enfocado en roles de **Data Scientist / Data Analyst**, aportando un
 
 **Universidad de Córdoba** \| 2025 – Actualidad
 
--   Docencia en asignaturas críticas: *Sistemas Operativos, Ingeniería Web y Métodos Formales*.
--   Mentoría técnica a estudiantes en estructuras de datos y lógica de programación.
--   Capacidad demostrada para comunicar conceptos técnicos complejos de forma clara.
+-   Docencia en las asignaturas: *Fundamentos de Informática,* *Sistemas Operativos, Ingeniería Web y Métodos Formales*.
+-   Capacidad para comunicar conceptos técnicos complejos de forma clara.
 
 ### Consultor de Ciberseguridad (Data-Driven)
 
@@ -85,7 +84,7 @@ Actualmente enfocado en roles de **Data Scientist / Data Analyst**, aportando un
 
 ## 📜 Certificaciones e Idiomas
 
--   **Cloud:** Microsoft Certified: A es un sistema de publicación de código abierto para crear documentos científicos y técnicos dinámicoszure Fundamentals (AZ-900)
+-   **Cloud:** Microsoft Certified: Azure Fundamentals (AZ-900)
 -   **Networking:** Cisco CCNA 1 & 2
 -   **Idiomas:**
     -   Inglés (C1 - Avanzado)
