@@ -1,8 +1,8 @@
-# Portfolio Académico - Doctorado en Ciencia de Datos
+# Portfolio Académico - Doctorado en Computación Avanzada, Energía y Plasmas
 
 Este repositorio contiene el código fuente de mi sitio web académico/divulgativo, construido con [Quarto](https://quarto.org/).
 
-## 🎯 Propósito
+## Propósito
 
 Espacio para documentar y compartir mi investigación doctoral de forma accesible, incluyendo:
 
@@ -11,14 +11,14 @@ Espacio para documentar y compartir mi investigación doctoral de forma accesibl
 - Notebooks interactivos
 - Publicaciones y recursos
 
-## 🛠️ Tecnologías
+## Tecnologías
 
 - **Quarto**: Sistema de publicación científica y técnica
 - **Markdown/QMD**: Formato de contenido
 - **Jupyter Notebooks**: Análisis y visualizaciones interactivas
 - **GitHub Pages**: Hosting del sitio estático
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 .
@@ -37,7 +37,7 @@ Espacio para documentar y compartir mi investigación doctoral de forma accesibl
 └── _site/                # Sitio generado (ignorado en git)
 ```
 
-## 🚀 Cómo usar este proyecto
+## Cómo usar este proyecto
 
 ### Prerequisitos
 
@@ -71,7 +71,7 @@ quarto render
 
 El sitio generado estará en la carpeta `_site/`.
 
-## 📝 Cómo agregar contenido
+## Cómo agregar contenido
 
 ### Nueva entrada de diario
 
@@ -104,14 +104,14 @@ El sitio generado estará en la carpeta `_site/`.
    [Ver notebook →](notebooks/nombre.ipynb)
    ```
 
-## 🌐 Despliegue en GitHub Pages
+## Despliegue en GitHub Pages
 
 ### Configuración inicial
 
 1. En `_quarto.yml`, configurar la URL base:
    ```yaml
    website:
-     repo-url: https://github.com/tu-usuario/phd-portfolio
+     repo-url: https://github.com/albertofermer/phd_porfolio
    ```
 
 2. Crear GitHub Action (archivo `.github/workflows/publish.yml`):
@@ -159,7 +159,7 @@ git push origin main
 
 GitHub Actions generará y publicará automáticamente el sitio.
 
-## 🔒 Separación contenido público/privado
+## Separación contenido público/privado
 
 Este repositorio contiene **solo contenido público y divulgativo**.
 
@@ -169,17 +169,17 @@ Para trabajo privado (código experimental, datos sensibles, borradores):
 2. Usar submodules si es necesario compartir código entre ambos
 3. Nunca hacer commit de datos confidenciales aquí
 
-## 📄 Licencia
+## Licencia
 
 - **Contenido** (textos, imágenes): [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - **Código**: MIT License
 
 El código de análisis específico puede tener licencias diferentes (ver repositorios individuales).
 
-## 📧 Contacto
+## Contacto
 
-Para preguntas o colaboraciones: tu.email@universidad.edu
+Para preguntas o colaboraciones: alberto.fernmer@gmail.com
 
 ---
 
-*Plantilla generada para doctorandos. Personaliza libremente según tus necesidades.*
+*Portfolio académico personal. Universidad de Córdoba, 2025.*

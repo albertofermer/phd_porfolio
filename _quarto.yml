@@ -16,7 +16,7 @@ website:
   # favicon: images/favicon.png
   
   # Repositorio de GitHub para el botón "Edit this page" (opcional)
-  repo-url: https://github.com/tu-usuario/phd-portfolio
+  repo-url: https://github.com/albertofermer/phd_porfolio
   repo-actions: [edit, issue]
   
   # Navegación principal del sitio
