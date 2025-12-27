@@ -56,3 +56,9 @@ blockquote {
 #title-block-header.quarto-title-block.default .quarto-title-meta {
   grid-column-start: 1;
 }
+
+/* Desactivar interacción con checkboxes en listas de tareas */
+input[type="checkbox"] {
+  pointer-events: none;
+  cursor: default;
+}
